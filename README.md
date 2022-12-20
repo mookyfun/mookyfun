@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mookyfun
 
 
-writing really bad computer programs. shoot me a DM on my twitter (@mookyfun) if you like malware or anything windows related
+writing computer programs that do bad things. shoot me a DM on my twitter (@mookyfun) if you like malware or anything windows related
 
 <!---
 mookyfun/mookyfun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
